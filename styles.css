@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
